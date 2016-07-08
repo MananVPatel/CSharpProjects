@@ -1,0 +1,7 @@
+P:\Private\CMPSC302\activity14\act14\act14\bin\Debug\act14.dll
+P:\Private\CMPSC302\activity14\act14\act14\bin\Debug\act14.pdb
+P:\Private\CMPSC302\activity14\act14\act14\obj\Debug\act14.part.resources
+P:\Private\CMPSC302\activity14\act14\act14\obj\Debug\act14.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity14\act14\act14\obj\Debug\act14.dll
+P:\Private\CMPSC302\activity14\act14\act14\obj\Debug\act14.pdb
+P:\Private\CMPSC302\activity14\act14\act14\obj\Debug\act14.csprojResolveAssemblyReference.cache

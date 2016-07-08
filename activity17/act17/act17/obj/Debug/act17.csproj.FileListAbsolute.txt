@@ -1,0 +1,9 @@
+P:\Private\CMPSC302\activity17\act17\act17\bin\Debug\act17.exe.config
+P:\Private\CMPSC302\activity17\act17\act17\obj\Debug\act17.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\activity17\act17\act17\obj\Debug\act17.Form1.resources
+P:\Private\CMPSC302\activity17\act17\act17\obj\Debug\act17.Properties.Resources.resources
+P:\Private\CMPSC302\activity17\act17\act17\obj\Debug\act17.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity17\act17\act17\bin\Debug\act17.exe
+P:\Private\CMPSC302\activity17\act17\act17\bin\Debug\act17.pdb
+P:\Private\CMPSC302\activity17\act17\act17\obj\Debug\act17.exe
+P:\Private\CMPSC302\activity17\act17\act17\obj\Debug\act17.pdb

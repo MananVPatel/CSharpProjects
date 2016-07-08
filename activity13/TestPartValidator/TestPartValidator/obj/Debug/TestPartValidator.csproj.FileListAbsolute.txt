@@ -1,0 +1,11 @@
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\bin\Debug\TestPartValidator.exe.config
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\bin\Debug\TestPartValidator.exe
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\bin\Debug\TestPartValidator.pdb
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\bin\Debug\activity13.dll
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\bin\Debug\activity13.pdb
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\obj\Debug\TestPartValidator.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\obj\Debug\TestPartValidator.Form1.resources
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\obj\Debug\TestPartValidator.Properties.Resources.resources
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\obj\Debug\TestPartValidator.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\obj\Debug\TestPartValidator.exe
+P:\Private\CMPSC302\activity13\TestPartValidator\TestPartValidator\obj\Debug\TestPartValidator.pdb

@@ -1,0 +1,11 @@
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\bin\Debug\ProductQueries.exe.config
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\bin\Debug\ProductDB.mdf
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\bin\Debug\ProductDB_log.ldf
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\bin\Debug\ProductQueries.exe
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\bin\Debug\ProductQueries.pdb
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\obj\Debug\ProductQueries.Form1.resources
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\obj\Debug\ProductQueries.Properties.Resources.resources
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\obj\Debug\ProductQueries.exe
+P:\Private\CMPSC302\activity23\ProductQueries\ProductQueries\obj\Debug\ProductQueries.pdb

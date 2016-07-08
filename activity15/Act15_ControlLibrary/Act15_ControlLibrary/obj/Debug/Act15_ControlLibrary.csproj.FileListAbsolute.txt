@@ -1,0 +1,7 @@
+P:\Private\CMPSC302\activity15\Act15_ControlLibrary\Act15_ControlLibrary\bin\Debug\Act15_ControlLibrary.dll
+P:\Private\CMPSC302\activity15\Act15_ControlLibrary\Act15_ControlLibrary\bin\Debug\Act15_ControlLibrary.pdb
+P:\Private\CMPSC302\activity15\Act15_ControlLibrary\Act15_ControlLibrary\obj\Debug\Act15_ControlLibrary.UserControl1.resources
+P:\Private\CMPSC302\activity15\Act15_ControlLibrary\Act15_ControlLibrary\obj\Debug\Act15_ControlLibrary.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity15\Act15_ControlLibrary\Act15_ControlLibrary\obj\Debug\Act15_ControlLibrary.dll
+P:\Private\CMPSC302\activity15\Act15_ControlLibrary\Act15_ControlLibrary\obj\Debug\Act15_ControlLibrary.pdb
+P:\Private\CMPSC302\activity15\Act15_ControlLibrary\Act15_ControlLibrary\obj\Debug\Act15_ControlLibrary.csprojResolveAssemblyReference.cache

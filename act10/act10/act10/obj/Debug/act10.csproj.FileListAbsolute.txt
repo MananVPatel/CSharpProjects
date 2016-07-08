@@ -1,0 +1,8 @@
+P:\Private\CMPSC302\act10\act10\act10\bin\Debug\act10.exe.config
+P:\Private\CMPSC302\act10\act10\act10\obj\Debug\act10.Form1.resources
+P:\Private\CMPSC302\act10\act10\act10\obj\Debug\act10.Properties.Resources.resources
+P:\Private\CMPSC302\act10\act10\act10\obj\Debug\act10.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\act10\act10\act10\bin\Debug\act10.exe
+P:\Private\CMPSC302\act10\act10\act10\bin\Debug\act10.pdb
+P:\Private\CMPSC302\act10\act10\act10\obj\Debug\act10.exe
+P:\Private\CMPSC302\act10\act10\act10\obj\Debug\act10.pdb

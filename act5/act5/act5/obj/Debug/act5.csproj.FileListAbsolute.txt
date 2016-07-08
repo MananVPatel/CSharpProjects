@@ -1,0 +1,9 @@
+P:\Private\CMPSC302\act5\act5\act5\bin\Debug\act5.exe.config
+P:\Private\CMPSC302\act5\act5\act5\bin\Debug\act5.exe
+P:\Private\CMPSC302\act5\act5\act5\bin\Debug\act5.pdb
+P:\Private\CMPSC302\act5\act5\act5\obj\Debug\act5.Properties.Resources.resources
+P:\Private\CMPSC302\act5\act5\act5\obj\Debug\act5.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\act5\act5\act5\obj\Debug\act5.exe
+P:\Private\CMPSC302\act5\act5\act5\obj\Debug\act5.pdb
+P:\Private\CMPSC302\act5\act5\act5\obj\Debug\act5.Form1.resources
+P:\Private\CMPSC302\act5\act5\act5\obj\Debug\act5.csprojResolveAssemblyReference.cache

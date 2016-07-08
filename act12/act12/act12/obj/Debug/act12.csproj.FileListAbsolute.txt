@@ -1,0 +1,9 @@
+P:\Private\CMPSC302\act12\act12\act12\bin\Debug\act12.exe.config
+P:\Private\CMPSC302\act12\act12\act12\bin\Debug\act12.exe
+P:\Private\CMPSC302\act12\act12\act12\bin\Debug\act12.pdb
+P:\Private\CMPSC302\act12\act12\act12\obj\Debug\act12.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\act12\act12\act12\obj\Debug\act12.Form1.resources
+P:\Private\CMPSC302\act12\act12\act12\obj\Debug\act12.Properties.Resources.resources
+P:\Private\CMPSC302\act12\act12\act12\obj\Debug\act12.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\act12\act12\act12\obj\Debug\act12.exe
+P:\Private\CMPSC302\act12\act12\act12\obj\Debug\act12.pdb

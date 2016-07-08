@@ -1,0 +1,1 @@
+The text T3Z 3N7 matches. The regular expression engine starts at the position before the uppercase T and attempts to match the character following that position against the first metacharacter, [A-Z]. That matches.

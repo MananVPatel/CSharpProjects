@@ -1,0 +1,10 @@
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.exe.config
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.Form1.resources
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.Properties.Resources.resources
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.exe
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.pdb
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.exe
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.pdb
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.ShowValue.resources
+P:\Private\CMPSC302\finalProject\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csprojResolveAssemblyReference.cache

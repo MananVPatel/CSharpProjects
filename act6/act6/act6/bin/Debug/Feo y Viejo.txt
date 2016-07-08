@@ -1,0 +1,29 @@
+25 random things
+1.	I have a loving wife.
+2.	I have three great kids.
+3.	I have a beautiful and talented granddaughter.
+4.	I love and appreciate my extended family.
+5.	Cede is cute as a button.
+6.	I hope, some day,  to see Tatum as the Sugar Plum Fairy in The Nutcracker.
+7.	I love teaching computer science at Behrend.
+8.	I am fairly adept at C++ and C# programming
+9.	Stand back, I know regular expressions!
+10.	I speak Spanish pretty well.
+11.	I enjoy instant messaging  and Skyping with people all over the world in Spanish and English.
+12.	I like puzzles: Sudoku, crosswords, jumble, cryptograms
+13.	There are 10 kinds of people, those who understand binary and those who don’t
+14.	I’m in the first group.
+15.	There’s no place like 127.0.0.1
+16.	I’m still learning.
+17.	I like to take five mile fast walks on the Peninsula.
+18.	I’m kind of a techno-geek, I have an Ipad, a Kindle, aniPhone, a webcam.
+19.	I like to read both in Spanish and in English.
+20.	I graduated from McDowell high school in 1957.
+21.	It’s not true that I was on the original dirt design team, but I may know those guys.
+22.	Looking back, I’m amazed at how many computer technologies I once knew very well but now no 
+        longer exist.
+23.	I like to grow tropical plants, citrus, avocado, papaya.
+24.	I’m a Steelers fan.
+25.	I’m a Pens fan.
+26.	I think most people are good and honest, I’m surprised and disappointed when I find 
+        someone who isn’t.

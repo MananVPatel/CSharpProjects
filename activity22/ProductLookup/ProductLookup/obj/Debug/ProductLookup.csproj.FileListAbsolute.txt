@@ -1,0 +1,11 @@
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe.config
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\bin\Debug\ProductDB.mdf
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\bin\Debug\ProductDB_log.ldf
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\bin\Debug\ProductLookup.pdb
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Form1.resources
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Properties.Resources.resources
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\obj\Debug\ProductLookup.exe
+P:\Private\CMPSC302\activity22\ProductLookup\ProductLookup\obj\Debug\ProductLookup.pdb

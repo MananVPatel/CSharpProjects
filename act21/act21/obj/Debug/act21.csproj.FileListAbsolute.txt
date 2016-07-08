@@ -1,0 +1,13 @@
+P:\Private\CMPSC302\act21\act21\bin\Debug\act21.exe.config
+P:\Private\CMPSC302\act21\act21\bin\Debug\act21.exe
+P:\Private\CMPSC302\act21\act21\bin\Debug\act21.pdb
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.Form1.resources
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.Properties.Resources.resources
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.exe
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.pdb
+P:\Private\CMPSC302\act21\act21\bin\Debug\act21.exe.manifest
+P:\Private\CMPSC302\act21\act21\bin\Debug\act21.application
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.exe.manifest
+P:\Private\CMPSC302\act21\act21\obj\Debug\act21.application

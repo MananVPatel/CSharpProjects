@@ -1,0 +1,6 @@
+P:\Private\CMPSC302\activity13\activity13\activity13\bin\Debug\activity13.dll
+P:\Private\CMPSC302\activity13\activity13\activity13\bin\Debug\activity13.pdb
+P:\Private\CMPSC302\activity13\activity13\activity13\obj\Debug\activity13.PartValidator.resources
+P:\Private\CMPSC302\activity13\activity13\activity13\obj\Debug\activity13.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity13\activity13\activity13\obj\Debug\activity13.dll
+P:\Private\CMPSC302\activity13\activity13\activity13\obj\Debug\activity13.pdb

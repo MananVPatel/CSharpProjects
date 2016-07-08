@@ -1,0 +1,9 @@
+P:\Private\CMPSC302\activity20\act20\act20\bin\Debug\act20.exe.config
+P:\Private\CMPSC302\activity20\act20\act20\bin\Debug\act20.exe
+P:\Private\CMPSC302\activity20\act20\act20\bin\Debug\act20.pdb
+P:\Private\CMPSC302\activity20\act20\act20\obj\Debug\act20.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\activity20\act20\act20\obj\Debug\act20.Form1.resources
+P:\Private\CMPSC302\activity20\act20\act20\obj\Debug\act20.Properties.Resources.resources
+P:\Private\CMPSC302\activity20\act20\act20\obj\Debug\act20.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\activity20\act20\act20\obj\Debug\act20.exe
+P:\Private\CMPSC302\activity20\act20\act20\obj\Debug\act20.pdb

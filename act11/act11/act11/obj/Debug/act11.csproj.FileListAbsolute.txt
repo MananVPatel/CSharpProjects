@@ -1,0 +1,9 @@
+P:\Private\CMPSC302\act11\act11\act11\bin\Debug\act11.exe.config
+P:\Private\CMPSC302\act11\act11\act11\bin\Debug\act11.exe
+P:\Private\CMPSC302\act11\act11\act11\bin\Debug\act11.pdb
+P:\Private\CMPSC302\act11\act11\act11\obj\Debug\act11.csprojResolveAssemblyReference.cache
+P:\Private\CMPSC302\act11\act11\act11\obj\Debug\act11.Form1.resources
+P:\Private\CMPSC302\act11\act11\act11\obj\Debug\act11.Properties.Resources.resources
+P:\Private\CMPSC302\act11\act11\act11\obj\Debug\act11.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\act11\act11\act11\obj\Debug\act11.exe
+P:\Private\CMPSC302\act11\act11\act11\obj\Debug\act11.pdb

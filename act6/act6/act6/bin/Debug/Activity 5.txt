@@ -1,0 +1,16 @@
+CMPSC-302 Intermediate C#
+Activity #13
+Adler Checksum
+
+Create a program to read a paragraph from a file and display the Adler-32 checksum value for that 
+string in a label.  It should be in the form of a hexadecimal number. If you were to input the string, 
+Wikipedia, the result would be 11E60398.  You can test with that to ensure you are doing an accurate 
+calculation.  You can also test with the text file on ANGEL.  It should yield an adler number of FB8F02. 
+When reading the file, you don’t need to create a filestream. Use File.ReadAllText(filename);  That way, 
+you will pick up the end of line characters.
+Your application should consist of a Form and an Adler32 class to which you pass the text on which to 
+calculate the check sum.   Use long for the numeric variables in the class, because the numbers may be 
+larger than an int is capable of holding.  
+Look up the  Adler-32 algorithm on the web. Wikipedia has a rather good explanation.
+
+There is a zip file containing several files in the Lecture 6 folder that you can test with.
